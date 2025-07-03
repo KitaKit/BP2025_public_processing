@@ -1,0 +1,22 @@
+DATATYPE 1
+INDFILE K1.indfile
+POPFILE K1.popfile
+OUTFILE K1.indivq
+MISCFILE K1.miscfile
+K 1
+C 25
+R 3
+M 1
+W 1
+S 2
+GREEDY_OPTION 2
+REPEATS 1000
+PERMUTATIONFILE 
+PRINT_PERMUTED_DATA 0
+PERMUTED_DATAFILE projects\test1\clumpp\set1/perm.perm_datafile
+PRINT_EVERY_PERM 0
+EVERY_PERMFILE projects\test1\clumpp\set1/everyperm.every_permfile
+PRINT_RANDOM_INPUTORDER 0
+RANDOM_INPUTORDERFILE projects\test1\clumpp\set1/randomorder.random_inputorderfile
+OVERRIDE_WARNINGS 0
+ORDER_BY_RUN 1

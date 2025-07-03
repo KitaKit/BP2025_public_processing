@@ -1,0 +1,12 @@
+{
+  "ProjectName": "hghjghgkjghjk",
+  "ProjectPath": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\bin\\Debug\\net8.0-windows7.0\\Projects",
+  "ParallelExec": true,
+  "Cores": 8,
+  "UsedSubPrograms": {
+    "Structure": true,
+    "Structure Harvester": true,
+    "CLUMPP": true,
+    "Distruct": true
+  }
+}

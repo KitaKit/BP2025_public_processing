@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\pepcu\source\repos\Bakalaris\xjanas_BP_gui\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Custom interface elements\TextProgressBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Interface elements extensions\GenotypeApplicationMainWindowExtensions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Application windows\GenotypeProjectWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Application windows\GenotypeApplicationMainWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Application windows\LoadStructureDataFileWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

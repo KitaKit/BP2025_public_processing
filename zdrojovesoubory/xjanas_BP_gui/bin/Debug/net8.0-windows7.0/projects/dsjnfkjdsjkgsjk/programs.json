@@ -1,0 +1,39 @@
+{
+  "Structure": {
+    "ParameterSets": [
+      {
+        "SetName": "ghhghjghj",
+        "KStart": 1,
+        "KEnd": 5,
+        "Iterations": 5
+      }
+    ],
+    "CurrentSetName": "ghhghjghj"
+  },
+  "Structure Harvester": {
+    "ParameterSets": [
+      {
+        "SetName": "ghhghjghj",
+        "InputDataFolderPath": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\bin\\Debug\\net8.0-windows7.0\\Projects\\dsjnfkjdsjkgsjk\\Structure\\ghhghjghj\\Results",
+        "Evanno": true,
+        "Clumpp": true,
+        "KEnd": 5,
+        "IEnd": 5
+      }
+    ],
+    "CurrentSetName": "ghhghjghj"
+  },
+  "CLUMPP": {
+    "ParameterSets": [
+      {
+        "SetName": "ghhghjghj",
+        "InputDataFolderPath": "",
+        "CurrentParamFile": "paramfile",
+        "KStart": 2,
+        "KEnd": 4,
+        "ParamFiles": []
+      }
+    ],
+    "CurrentSetName": "ghhghjghj"
+  }
+}

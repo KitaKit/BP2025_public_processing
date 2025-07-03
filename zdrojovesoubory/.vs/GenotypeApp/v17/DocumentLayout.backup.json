@@ -1,0 +1,1082 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\application windows\\genotypeapplicationmainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\application windows\\genotypeapplicationmainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\additional programs logic\\clumpp\\clumppstartupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\additional programs logic\\clumpp\\clumppstartupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\application windows\\genotypeapplicationmainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\application windows\\genotypeapplicationmainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\application windows\\genotypeprojectwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\application windows\\genotypeprojectwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\xjanas_BP.csproj|C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_bp_gui\\application windows\\genotypeprojectwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\xjanas_BP.csproj|solutionrelative:xjanas_bp_gui\\application windows\\genotypeprojectwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\additional programs logic\\distruct\\distructstartuppreparationsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\additional programs logic\\distruct\\distructstartuppreparationsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\application windows\\genotypeprojectwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\application windows\\genotypeprojectwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\application windows\\loadstructuredatafilewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\application windows\\loadstructuredatafilewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\genotypeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\genotypeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sosit\\Documents\\Study\\Third year\\Second semestr\\BP\\Additional\\BP 2023 proc\\zdrojov\u00E9 soubory\\xjanas_BP_gui\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sosit\\Documents\\Study\\Third year\\Second semestr\\BP\\Additional\\BP 2023 proc\\zdrojov\u00E9 soubory\\xjanas_BP_gui\\Application windows\\GenotypeApplicationMainWindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\bin\\Debug\\net8.0-windows7.0\\projects\\truruturtutur\\programs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:xjanas_BP_gui\\bin\\Debug\\net8.0-windows7.0\\projects\\truruturtutur\\programs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\genotypeapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\genotypeapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\additional programs logic\\clumpp\\progressregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\additional programs logic\\clumpp\\progressregistry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\additional programs logic\\clumpp\\jobprogressestimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\additional programs logic\\clumpp\\jobprogressestimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\application windows\\loadstructuredatafilewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\application windows\\loadstructuredatafilewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\interface elements extensions\\datagridviewextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\interface elements extensions\\datagridviewextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\additional programs logic\\distruct\\distructpsexportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\additional programs logic\\distruct\\distructpsexportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\additional programs logic\\distruct\\distructpsexportpreparationsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\additional programs logic\\distruct\\distructpsexportpreparationsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\additional programs logic\\distruct\\distructpsexportconfigurationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\additional programs logic\\distruct\\distructpsexportconfigurationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\additional programs logic\\structure harvester\\structureharvestervisualizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\additional programs logic\\structure harvester\\structureharvestervisualizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\directories and files processing\\directoriesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\directories and files processing\\directoriesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\interface elements extensions\\treeviewextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\interface elements extensions\\treeviewextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\directories and files processing\\directorieslivemonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\directories and files processing\\directorieslivemonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\interface elements extensions\\comboboxextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\interface elements extensions\\comboboxextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\interface elements extensions\\tablelayoutpanelextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\interface elements extensions\\tablelayoutpanelextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\application logic\\projectconfigurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\application logic\\projectconfigurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\interface elements extensions\\genotypeapplicationmainwindowextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\interface elements extensions\\genotypeapplicationmainwindowextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\additional programs logic\\structure\\structureparametersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\additional programs logic\\structure\\structureparametersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\directories and files processing\\filesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\directories and files processing\\filesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\additional programs logic\\structure\\structureconfigurationparametersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\additional programs logic\\structure\\structureconfigurationparametersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\application logic\\loggingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\application logic\\loggingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\application logic\\textboxtargetlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\application logic\\textboxtargetlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\additional programs logic\\distruct\\distructconfigurationparametersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\additional programs logic\\distruct\\distructconfigurationparametersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\additional programs logic\\clumpp\\clumppconfigurationparametersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\additional programs logic\\clumpp\\clumppconfigurationparametersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\additional programs logic\\structure harvester\\structureharvesterconfigurationparametersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\additional programs logic\\structure harvester\\structureharvesterconfigurationparametersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\project stuff\\projectinformationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\project stuff\\projectinformationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\additional programs logic\\structure harvester\\structureharvesterconfigurationparametersmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\additional programs logic\\structure harvester\\structureharvesterconfigurationparametersmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\additional programs logic\\clumpp\\clumppparametersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\additional programs logic\\clumpp\\clumppparametersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\application windows\\genotypeapplicationmainwindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\application windows\\genotypeapplicationmainwindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\application logic\\filesequencescanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\application logic\\filesequencescanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\additional programs logic\\structure\\structureconfigurationparametersmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\additional programs logic\\structure\\structureconfigurationparametersmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\additional programs logic\\clumpp\\clumppstartuppreparationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\additional programs logic\\clumpp\\clumppstartuppreparationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\additional programs logic\\distruct\\distructstartupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\additional programs logic\\distruct\\distructstartupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\additional programs logic\\structure\\structurestartupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\additional programs logic\\structure\\structurestartupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\additional programs logic\\structure\\structureextraparamssubmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\additional programs logic\\structure\\structureextraparamssubmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\custom interface elements\\textprogressbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\custom interface elements\\textprogressbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\additional programs logic\\structure\\structurestartuppreparationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\additional programs logic\\structure\\structurestartuppreparationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\application logic\\custom exceptions\\configloadexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\application logic\\custom exceptions\\configloadexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\application windows\\loadstructuredatafilewindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\application windows\\loadstructuredatafilewindow.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\additional programs logic\\structure\\structureinputdatapredictor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\additional programs logic\\structure\\structureinputdatapredictor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\additional programs logic\\structure harvester\\structureharvesterstartupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\additional programs logic\\structure harvester\\structureharvesterstartupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\additional programs logic\\structure\\structuremainparamssubmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\additional programs logic\\structure\\structuremainparamssubmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\interface elements extensions\\checkedlistboxextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\interface elements extensions\\checkedlistboxextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\interface view models\\currentprojectinfoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\interface view models\\currentprojectinfoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\application logic\\ijsonconfigurable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\application logic\\ijsonconfigurable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\application logic\\ihassetname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\application logic\\ihassetname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\application logic\\custom exceptions\\configsaveexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\application logic\\custom exceptions\\configsaveexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\additional programs logic\\structure harvester\\structureharvesterstartuppreparationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\additional programs logic\\structure harvester\\structureharvesterstartuppreparationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\additional programs logic\\structure\\structureinputdatavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\additional programs logic\\structure\\structureinputdatavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\additional programs logic\\distruct\\distructparametersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\additional programs logic\\distruct\\distructparametersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\additional programs logic\\distruct\\distructconfigurationparametersmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\additional programs logic\\distruct\\distructconfigurationparametersmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\additional programs logic\\clumpp\\clumppconfigurationparametersmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\additional programs logic\\clumpp\\clumppconfigurationparametersmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|c:\\users\\sosit\\documents\\bp2023proc\\zdrojovesoubory\\xjanas_bp_gui\\application windows\\genotypeapplicationmainwindow.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{1F501F39-4D1E-4760-B48E-95894149A454}|xjanas_BP_gui\\GenotypeApp.csproj|solutionrelative:xjanas_bp_gui\\application windows\\genotypeapplicationmainwindow.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenotypeProjectWindow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Application windows\\GenotypeProjectWindow.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Application windows\\GenotypeProjectWindow.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Application windows\\GenotypeProjectWindow.cs [Design]",
+              "RelativeToolTip": "xjanas_BP_gui\\Application windows\\GenotypeProjectWindow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T23:55:35.218Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenotypeApplicationMainWindow.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Application windows\\GenotypeApplicationMainWindow.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Application windows\\GenotypeApplicationMainWindow.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Application windows\\GenotypeApplicationMainWindow.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Application windows\\GenotypeApplicationMainWindow.cs",
+              "ViewState": "AgIAAH4DAAAAAAAAAAArwJEDAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T17:55:15.058Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProgressRegistry.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\CLUMPP\\ProgressRegistry.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Additional programs logic\\CLUMPP\\ProgressRegistry.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\CLUMPP\\ProgressRegistry.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Additional programs logic\\CLUMPP\\ProgressRegistry.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T22:34:56.005Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JobProgressEstimator.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\CLUMPP\\JobProgressEstimator.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Additional programs logic\\CLUMPP\\JobProgressEstimator.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\CLUMPP\\JobProgressEstimator.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Additional programs logic\\CLUMPP\\JobProgressEstimator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T22:34:32.457Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CLUMPPStartupService.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\CLUMPP\\CLUMPPStartupService.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Additional programs logic\\CLUMPP\\CLUMPPStartupService.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\CLUMPP\\CLUMPPStartupService.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Additional programs logic\\CLUMPP\\CLUMPPStartupService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAArwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T02:01:30.917Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoadStructureDataFileWindow.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Application windows\\LoadStructureDataFileWindow.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Application windows\\LoadStructureDataFileWindow.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Application windows\\LoadStructureDataFileWindow.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Application windows\\LoadStructureDataFileWindow.cs",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAowPMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:36:15.188Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DataGridViewExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Interface elements extensions\\DataGridViewExtensions.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Interface elements extensions\\DataGridViewExtensions.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Interface elements extensions\\DataGridViewExtensions.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Interface elements extensions\\DataGridViewExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:13:20.448Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DistructPSExportService.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\Distruct\\DistructPSExportService.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Additional programs logic\\Distruct\\DistructPSExportService.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\Distruct\\DistructPSExportService.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Additional programs logic\\Distruct\\DistructPSExportService.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAuwKIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T00:40:58.238Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DistructPSExportPreparationsService.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\Distruct\\DistructPSExportPreparationsService.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Additional programs logic\\Distruct\\DistructPSExportPreparationsService.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\Distruct\\DistructPSExportPreparationsService.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Additional programs logic\\Distruct\\DistructPSExportPreparationsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T02:01:11.095Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DistructPSExportConfigurationModel.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\Distruct\\DistructPSExportConfigurationModel.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Additional programs logic\\Distruct\\DistructPSExportConfigurationModel.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\Distruct\\DistructPSExportConfigurationModel.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Additional programs logic\\Distruct\\DistructPSExportConfigurationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T02:06:45.358Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StructureHarvesterVisualizer.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\Structure Harvester\\StructureHarvesterVisualizer.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Additional programs logic\\Structure Harvester\\StructureHarvesterVisualizer.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\Structure Harvester\\StructureHarvesterVisualizer.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Additional programs logic\\Structure Harvester\\StructureHarvesterVisualizer.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowJcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T02:05:16.539Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenotypeProjectWindow.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Application windows\\GenotypeProjectWindow.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Application windows\\GenotypeProjectWindow.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Application windows\\GenotypeProjectWindow.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Application windows\\GenotypeProjectWindow.cs",
+              "ViewState": "AgIAAN0AAAAAAAAAAAArwPAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T18:05:48.991Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenotypeProjectWindow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Application windows\\GenotypeProjectWindow.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Application windows\\GenotypeProjectWindow.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Application windows\\GenotypeProjectWindow.cs [Design]",
+              "RelativeToolTip": "xjanas_BP_gui\\Application windows\\GenotypeProjectWindow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T08:48:37.377Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DistructStartupPreparationsService.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\Distruct\\DistructStartupPreparationsService.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Additional programs logic\\Distruct\\DistructStartupPreparationsService.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\Distruct\\DistructStartupPreparationsService.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Additional programs logic\\Distruct\\DistructStartupPreparationsService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T02:02:21.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenotypeApplicationMainWindow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Application windows\\GenotypeApplicationMainWindow.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Application windows\\GenotypeApplicationMainWindow.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Application windows\\GenotypeApplicationMainWindow.cs [Design]",
+              "RelativeToolTip": "xjanas_BP_gui\\Application windows\\GenotypeApplicationMainWindow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T18:48:22.277Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DirectoriesManager.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Directories and files processing\\DirectoriesManager.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Directories and files processing\\DirectoriesManager.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Directories and files processing\\DirectoriesManager.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Directories and files processing\\DirectoriesManager.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAowG8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T02:52:58.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoadStructureDataFileWindow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Application windows\\LoadStructureDataFileWindow.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Application windows\\LoadStructureDataFileWindow.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Application windows\\LoadStructureDataFileWindow.cs [Design]",
+              "RelativeToolTip": "xjanas_BP_gui\\Application windows\\LoadStructureDataFileWindow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T08:16:48.779Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TreeViewExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Interface elements extensions\\TreeViewExtensions.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Interface elements extensions\\TreeViewExtensions.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Interface elements extensions\\TreeViewExtensions.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Interface elements extensions\\TreeViewExtensions.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T11:28:25.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DirectoriesLiveMonitor.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Directories and files processing\\DirectoriesLiveMonitor.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Directories and files processing\\DirectoriesLiveMonitor.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Directories and files processing\\DirectoriesLiveMonitor.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Directories and files processing\\DirectoriesLiveMonitor.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwEkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T23:41:44.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ComboBoxExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Interface elements extensions\\ComboBoxExtensions.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Interface elements extensions\\ComboBoxExtensions.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Interface elements extensions\\ComboBoxExtensions.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Interface elements extensions\\ComboBoxExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T23:47:12.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TableLayoutPanelExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Interface elements extensions\\TableLayoutPanelExtensions.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Interface elements extensions\\TableLayoutPanelExtensions.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Interface elements extensions\\TableLayoutPanelExtensions.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Interface elements extensions\\TableLayoutPanelExtensions.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T21:31:06.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Program.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Program.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Program.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T11:28:40.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProjectConfigurationService.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Application logic\\ProjectConfigurationService.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Application logic\\ProjectConfigurationService.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Application logic\\ProjectConfigurationService.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Application logic\\ProjectConfigurationService.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAcwLYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:31:10.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GenotypeApplicationMainWindowExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Interface elements extensions\\GenotypeApplicationMainWindowExtensions.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Interface elements extensions\\GenotypeApplicationMainWindowExtensions.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Interface elements extensions\\GenotypeApplicationMainWindowExtensions.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Interface elements extensions\\GenotypeApplicationMainWindowExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T00:05:41.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StructureParametersModel.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\Structure\\StructureParametersModel.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Additional programs logic\\Structure\\StructureParametersModel.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\Structure\\StructureParametersModel.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Additional programs logic\\Structure\\StructureParametersModel.cs",
+              "ViewState": "AgIAACIBAAAAAAAAAAAgwCUBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:34:48.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FilesManager.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Directories and files processing\\FilesManager.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Directories and files processing\\FilesManager.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Directories and files processing\\FilesManager.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Directories and files processing\\FilesManager.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA1wD4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T22:00:36.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "StructureConfigurationParametersModel.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\Structure\\StructureConfigurationParametersModel.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Additional programs logic\\Structure\\StructureConfigurationParametersModel.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\Structure\\StructureConfigurationParametersModel.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Additional programs logic\\Structure\\StructureConfigurationParametersModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:02:30.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LoggingManager.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Application logic\\LoggingManager.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Application logic\\LoggingManager.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Application logic\\LoggingManager.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Application logic\\LoggingManager.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwD0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T11:17:05.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TextBoxTargetLogger.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Application logic\\TextBoxTargetLogger.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Application logic\\TextBoxTargetLogger.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Application logic\\TextBoxTargetLogger.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Application logic\\TextBoxTargetLogger.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T11:15:38.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DistructConfigurationParametersModel.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\Distruct\\DistructConfigurationParametersModel.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Additional programs logic\\Distruct\\DistructConfigurationParametersModel.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\Distruct\\DistructConfigurationParametersModel.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Additional programs logic\\Distruct\\DistructConfigurationParametersModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T21:07:46.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CLUMPPConfigurationParametersModel.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\CLUMPP\\CLUMPPConfigurationParametersModel.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Additional programs logic\\CLUMPP\\CLUMPPConfigurationParametersModel.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\CLUMPP\\CLUMPPConfigurationParametersModel.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Additional programs logic\\CLUMPP\\CLUMPPConfigurationParametersModel.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T21:05:13.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "StructureHarvesterConfigurationParametersModel.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\Structure Harvester\\StructureHarvesterConfigurationParametersModel.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Additional programs logic\\Structure Harvester\\StructureHarvesterConfigurationParametersModel.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\Structure Harvester\\StructureHarvesterConfigurationParametersModel.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Additional programs logic\\Structure Harvester\\StructureHarvesterConfigurationParametersModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T23:24:47.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProjectInformationModel.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Project stuff\\ProjectInformationModel.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Project stuff\\ProjectInformationModel.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Project stuff\\ProjectInformationModel.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Project stuff\\ProjectInformationModel.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T17:33:22.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "StructureHarvesterConfigurationParametersManager.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\Structure Harvester\\StructureHarvesterConfigurationParametersManager.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Additional programs logic\\Structure Harvester\\StructureHarvesterConfigurationParametersManager.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\Structure Harvester\\StructureHarvesterConfigurationParametersManager.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Additional programs logic\\Structure Harvester\\StructureHarvesterConfigurationParametersManager.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAgwBAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T23:26:49.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CLUMPPParametersModel.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\CLUMPP\\CLUMPPParametersModel.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Additional programs logic\\CLUMPP\\CLUMPPParametersModel.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\CLUMPP\\CLUMPPParametersModel.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Additional programs logic\\CLUMPP\\CLUMPPParametersModel.cs",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAgwAIBAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T22:39:48.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GenotypeApplicationMainWindow.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Application windows\\GenotypeApplicationMainWindow.Designer.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Application windows\\GenotypeApplicationMainWindow.Designer.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Application windows\\GenotypeApplicationMainWindow.Designer.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Application windows\\GenotypeApplicationMainWindow.Designer.cs",
+              "ViewState": "AgIAAAANAAAAAAAAAAApwAwNAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T15:26:08.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FileSequenceScanner.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Application logic\\FileSequenceScanner.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Application logic\\FileSequenceScanner.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Application logic\\FileSequenceScanner.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Application logic\\FileSequenceScanner.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T10:53:46.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "StructureConfigurationParametersManager.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\Structure\\StructureConfigurationParametersManager.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Additional programs logic\\Structure\\StructureConfigurationParametersManager.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\Structure\\StructureConfigurationParametersManager.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Additional programs logic\\Structure\\StructureConfigurationParametersManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T01:37:31.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CLUMPPStartupPreparationService.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\CLUMPP\\CLUMPPStartupPreparationService.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Additional programs logic\\CLUMPP\\CLUMPPStartupPreparationService.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\CLUMPP\\CLUMPPStartupPreparationService.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Additional programs logic\\CLUMPP\\CLUMPPStartupPreparationService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAgwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T23:24:05.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DistructStartupService.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\Distruct\\DistructStartupService.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Additional programs logic\\Distruct\\DistructStartupService.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\Distruct\\DistructStartupService.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Additional programs logic\\Distruct\\DistructStartupService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAIwJsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T02:02:49.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "StructureStartupService.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\Structure\\StructureStartupService.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Additional programs logic\\Structure\\StructureStartupService.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\Structure\\StructureStartupService.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Additional programs logic\\Structure\\StructureStartupService.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAowHAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T17:56:32.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "StructureExtraparamsSubModel.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\Structure\\StructureExtraparamsSubModel.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Additional programs logic\\Structure\\StructureExtraparamsSubModel.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\Structure\\StructureExtraparamsSubModel.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Additional programs logic\\Structure\\StructureExtraparamsSubModel.cs",
+              "ViewState": "AgIAACQBAAAAAAAAAAAQwDQBAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T03:40:16.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "TextProgressBar.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Custom interface elements\\TextProgressBar.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Custom interface elements\\TextProgressBar.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Custom interface elements\\TextProgressBar.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Custom interface elements\\TextProgressBar.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwC4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T22:34:43.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "StructureStartupPreparationService.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\Structure\\StructureStartupPreparationService.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Additional programs logic\\Structure\\StructureStartupPreparationService.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\Structure\\StructureStartupPreparationService.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Additional programs logic\\Structure\\StructureStartupPreparationService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T06:33:10.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ConfigLoadException.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Application logic\\Custom exceptions\\ConfigLoadException.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Application logic\\Custom exceptions\\ConfigLoadException.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Application logic\\Custom exceptions\\ConfigLoadException.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Application logic\\Custom exceptions\\ConfigLoadException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T18:27:32.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "LoadStructureDataFileWindow.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Application windows\\LoadStructureDataFileWindow.Designer.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Application windows\\LoadStructureDataFileWindow.Designer.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Application windows\\LoadStructureDataFileWindow.Designer.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Application windows\\LoadStructureDataFileWindow.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T02:22:10.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "StructureInputDataPredictor.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\Structure\\StructureInputDataPredictor.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Additional programs logic\\Structure\\StructureInputDataPredictor.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\Structure\\StructureInputDataPredictor.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Additional programs logic\\Structure\\StructureInputDataPredictor.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwE4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T16:33:59.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "StructureHarvesterStartupService.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\Structure Harvester\\StructureHarvesterStartupService.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Additional programs logic\\Structure Harvester\\StructureHarvesterStartupService.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\Structure Harvester\\StructureHarvesterStartupService.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Additional programs logic\\Structure Harvester\\StructureHarvesterStartupService.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwE4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T23:23:09.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GenotypeApp.csproj",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\GenotypeApp.csproj",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\GenotypeApp.csproj",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\GenotypeApp.csproj",
+              "RelativeToolTip": "xjanas_BP_gui\\GenotypeApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-07T01:35:22.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "StructureMainparamsSubModel.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\Structure\\StructureMainparamsSubModel.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Additional programs logic\\Structure\\StructureMainparamsSubModel.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\Structure\\StructureMainparamsSubModel.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Additional programs logic\\Structure\\StructureMainparamsSubModel.cs",
+              "ViewState": "AgIAABABAAAAAAAAAAAuwBwBAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T17:47:07.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CheckedListBoxExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Interface elements extensions\\CheckedListBoxExtensions.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Interface elements extensions\\CheckedListBoxExtensions.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Interface elements extensions\\CheckedListBoxExtensions.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Interface elements extensions\\CheckedListBoxExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T17:40:21.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CurrentProjectInfoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Interface view models\\CurrentProjectInfoViewModel.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Interface view models\\CurrentProjectInfoViewModel.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Interface view models\\CurrentProjectInfoViewModel.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Interface view models\\CurrentProjectInfoViewModel.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T15:13:05.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IJsonConfigurable.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Application logic\\IJsonConfigurable.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Application logic\\IJsonConfigurable.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Application logic\\IJsonConfigurable.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Application logic\\IJsonConfigurable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T01:14:21.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "IHasSetName.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Application logic\\IHasSetName.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Application logic\\IHasSetName.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Application logic\\IHasSetName.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Application logic\\IHasSetName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T08:13:30.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ConfigSaveException.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Application logic\\Custom exceptions\\ConfigSaveException.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Application logic\\Custom exceptions\\ConfigSaveException.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Application logic\\Custom exceptions\\ConfigSaveException.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Application logic\\Custom exceptions\\ConfigSaveException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T19:01:19.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "StructureHarvesterStartupPreparationService.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\Structure Harvester\\StructureHarvesterStartupPreparationService.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Additional programs logic\\Structure Harvester\\StructureHarvesterStartupPreparationService.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\Structure Harvester\\StructureHarvesterStartupPreparationService.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Additional programs logic\\Structure Harvester\\StructureHarvesterStartupPreparationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T06:41:42.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "StructureInputDataValidator.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\Structure\\StructureInputDataValidator.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Additional programs logic\\Structure\\StructureInputDataValidator.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\Structure\\StructureInputDataValidator.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Additional programs logic\\Structure\\StructureInputDataValidator.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAowAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T16:32:54.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "DistructParametersModel.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\Distruct\\DistructParametersModel.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Additional programs logic\\Distruct\\DistructParametersModel.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\Distruct\\DistructParametersModel.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Additional programs logic\\Distruct\\DistructParametersModel.cs",
+              "ViewState": "AgIAALoBAAAAAAAAAAAQwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T20:50:40.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "DistructConfigurationParametersManager.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\Distruct\\DistructConfigurationParametersManager.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Additional programs logic\\Distruct\\DistructConfigurationParametersManager.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\Distruct\\DistructConfigurationParametersManager.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Additional programs logic\\Distruct\\DistructConfigurationParametersManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T02:33:30.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "CLUMPPConfigurationParametersManager.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\CLUMPP\\CLUMPPConfigurationParametersManager.cs",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Additional programs logic\\CLUMPP\\CLUMPPConfigurationParametersManager.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Additional programs logic\\CLUMPP\\CLUMPPConfigurationParametersManager.cs",
+              "RelativeToolTip": "xjanas_BP_gui\\Additional programs logic\\CLUMPP\\CLUMPPConfigurationParametersManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T02:33:42.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\Study\\Third year\\Second semestr\\BP\\Additional\\BP 2023 proc\\zdrojov\u00E9 soubory\\xjanas_BP_gui\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\Study\\Third year\\Second semestr\\BP\\Additional\\BP 2023 proc\\zdrojov\u00E9 soubory\\xjanas_BP_gui\\Program.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\Study\\Third year\\Second semestr\\BP\\Additional\\BP 2023 proc\\zdrojov\u00E9 soubory\\xjanas_BP_gui\\Program.cs",
+              "RelativeToolTip": "..\\..\\Study\\Third year\\Second semestr\\BP\\Additional\\BP 2023 proc\\zdrojov\u00E9 soubory\\xjanas_BP_gui\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T17:22:19.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GenotypeApplicationMainWindow.cs",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\Study\\Third year\\Second semestr\\BP\\Additional\\BP 2023 proc\\zdrojov\u00E9 soubory\\xjanas_BP_gui\\Application windows\\GenotypeApplicationMainWindow.cs",
+              "RelativeDocumentMoniker": "..\\..\\Study\\Third year\\Second semestr\\BP\\Additional\\BP 2023 proc\\zdrojov\u00E9 soubory\\xjanas_BP_gui\\Application windows\\GenotypeApplicationMainWindow.cs",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\Study\\Third year\\Second semestr\\BP\\Additional\\BP 2023 proc\\zdrojov\u00E9 soubory\\xjanas_BP_gui\\Application windows\\GenotypeApplicationMainWindow.cs",
+              "RelativeToolTip": "..\\..\\Study\\Third year\\Second semestr\\BP\\Additional\\BP 2023 proc\\zdrojov\u00E9 soubory\\xjanas_BP_gui\\Application windows\\GenotypeApplicationMainWindow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T21:17:10.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "GenotypeApplicationMainWindow.resx",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Application windows\\GenotypeApplicationMainWindow.resx",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\Application windows\\GenotypeApplicationMainWindow.resx",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\Application windows\\GenotypeApplicationMainWindow.resx",
+              "RelativeToolTip": "xjanas_BP_gui\\Application windows\\GenotypeApplicationMainWindow.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-15T01:48:35.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "programs.json",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\bin\\Debug\\net8.0-windows7.0\\projects\\truruturtutur\\programs.json",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\bin\\Debug\\net8.0-windows7.0\\projects\\truruturtutur\\programs.json",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\bin\\Debug\\net8.0-windows7.0\\projects\\truruturtutur\\programs.json",
+              "RelativeToolTip": "xjanas_BP_gui\\bin\\Debug\\net8.0-windows7.0\\projects\\truruturtutur\\programs.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-12T21:53:23.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GenotypeApp",
+              "DocumentMoniker": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\GenotypeApp.csproj",
+              "RelativeDocumentMoniker": "xjanas_BP_gui\\GenotypeApp.csproj",
+              "ToolTip": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\GenotypeApp.csproj",
+              "RelativeToolTip": "xjanas_BP_gui\\GenotypeApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-06T21:38:20.216Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

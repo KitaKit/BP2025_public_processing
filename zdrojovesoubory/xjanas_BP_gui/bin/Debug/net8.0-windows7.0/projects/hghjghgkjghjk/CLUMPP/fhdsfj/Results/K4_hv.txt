@@ -1,0 +1,1 @@
+﻿The highest value of H' is: 0.993788439360895

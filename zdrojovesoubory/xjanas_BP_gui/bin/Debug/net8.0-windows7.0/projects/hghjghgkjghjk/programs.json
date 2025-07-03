@@ -1,0 +1,39 @@
+{
+  "Structure": {
+    "ParameterSets": [
+      {
+        "SetName": "fhdsfj",
+        "KStart": 1,
+        "KEnd": 5,
+        "Iterations": 5
+      }
+    ],
+    "CurrentSetName": "fhdsfj"
+  },
+  "Structure Harvester": {
+    "ParameterSets": [
+      {
+        "SetName": "fhdsfj",
+        "InputDataFolderPath": "C:\\Users\\sosit\\Documents\\BP2023proc\\zdrojovesoubory\\xjanas_BP_gui\\bin\\Debug\\net8.0-windows7.0\\Projects\\hghjghgkjghjk\\Structure\\fhdsfj\\Results",
+        "Evanno": true,
+        "Clumpp": true,
+        "KEnd": 5,
+        "IEnd": 5
+      }
+    ],
+    "CurrentSetName": "fhdsfj"
+  },
+  "CLUMPP": {
+    "ParameterSets": [
+      {
+        "SetName": "fhdsfj",
+        "InputDataFolderPath": "",
+        "CurrentParamFile": "paramfile",
+        "KStart": 2,
+        "KEnd": 5,
+        "ParamFiles": []
+      }
+    ],
+    "CurrentSetName": "fhdsfj"
+  }
+}

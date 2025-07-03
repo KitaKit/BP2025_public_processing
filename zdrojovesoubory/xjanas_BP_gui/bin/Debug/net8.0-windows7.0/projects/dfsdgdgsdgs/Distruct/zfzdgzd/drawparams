@@ -1,0 +1,33 @@
+#define INFILE_POPQ         
+#define INFILE_INDIVQ       
+#define INFILE_LABEL_ATOP  INFILE_LABEL_ATOP
+#define INFILE_LABEL_BELOW INFILE_LABEL_BELOW
+#define INFILE_CLUST_PERM  INFILE_CLUST_PERM
+#define OUTFILE             
+#define K                   
+#define NUMPOPS            6
+#define NUMINDS            149
+#define PRINT_INDIVS       0
+#define PRINT_LABEL_ATOP   1
+#define PRINT_LABEL_BELOW  1
+#define PRINT_SEP          1
+#define FONTHEIGHT         6
+#define DIST_ABOVE         5
+#define DIST_BELOW         -7
+#define BOXHEIGHT          36
+#define INDIVWIDTH         1.5
+#define ORIENTATION        0
+#define XORIGIN            72
+#define YORIGIN            28
+#define XSCALE             1
+#define YSCALE             1
+#define ANGLE_LABEL_ATOP   60
+#define ANGLE_LABEL_BELOW  60
+#define LINEWIDTH_RIM      3
+#define LINEWIDTH_SEP      0.3
+#define LINEWIDTH_IND      0.3
+#define GRAYSCALE          0
+#define ECHO_DATA          1
+#define REPRINT_DATA       1
+#define PRINT_INFILE_NAME  0
+#define PRINT_COLOR_BREWER 1

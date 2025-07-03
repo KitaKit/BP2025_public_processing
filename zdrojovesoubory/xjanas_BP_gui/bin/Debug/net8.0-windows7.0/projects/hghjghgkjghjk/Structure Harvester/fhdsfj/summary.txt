@@ -1,0 +1,59 @@
+# This document produced by structureHarvester core version vB.1 July 2022
+# http://www.structureharvester.com/
+# https://github.com/dentearl/structureHarvester/
+# http://taylor0.biology.ucla.edu/structureHarvester
+# http://users.soe.ucsc.edu/~dearl/software/structureHarvester
+# Written by Dent Earl, dearl (a) soe ucsc edu.
+# CITATION:
+# Earl, Dent A. and vonHoldt, Bridgett M. (2012)
+# STRUCTURE HARVESTER: a website and program for visualizing
+# STRUCTURE output and implementing the Evanno method.
+# Conservation Genetics Resources 4(2) 359-361. DOI: 10.1007/s12686-011-9548-7
+# Core version: vB.1 July 2022
+# File generated at 2025-Jul-03 12:05:47 RTZ 2 (зима)
+#
+
+##########
+# K	Reps	mean est. LnP(Data)	stdev est. LnP(Data)
+1	5	-5997.600000	0.000000
+2	5	-5419.680000	4.466766
+3	5	-5058.760000	4.040173
+4	5	-4907.500000	3.935734
+5	5	-4853.320000	5.175133
+
+##########
+# File name	Run #	K	Est. Ln prob. of data	Mean value of Ln likelihood	Variance of Ln likelihood
+K1-i1_f		1	-5997.6	-5964.9	65.3
+K1-i2_f		1	-5997.6	-5964.9	65.3
+K1-i3_f		1	-5997.6	-5964.9	65.3
+K1-i4_f		1	-5997.6	-5964.9	65.3
+K1-i5_f		1	-5997.6	-5964.9	65.3
+K2-i1_f		2	-5422.4	-5343.9	157.0
+K2-i2_f		2	-5423.2	-5341.1	164.2
+K2-i3_f		2	-5423.2	-5341.1	164.2
+K2-i4_f		2	-5414.8	-5338.3	153.1
+K2-i5_f		2	-5414.8	-5338.3	153.1
+K3-i1_f		3	-5061.1	-4960.1	202.0
+K3-i2_f		3	-5061.1	-4960.1	202.0
+K3-i3_f		3	-5062.8	-4965.7	194.3
+K3-i4_f		3	-5054.4	-4957.7	193.4
+K3-i5_f		3	-5054.4	-4957.7	193.4
+K4-i1_f		4	-4910.3	-4781.1	258.3
+K4-i2_f		4	-4903.2	-4784.3	237.8
+K4-i3_f		4	-4903.2	-4784.3	237.8
+K4-i4_f		4	-4910.0	-4780.3	259.4
+K4-i5_f		4	-4910.8	-4785.2	251.2
+K5-i1_f		5	-4849.9	-4694.0	311.9
+K5-i2_f		5	-4855.7	-4690.5	330.4
+K5-i3_f		5	-4855.7	-4690.5	330.4
+K5-i4_f		5	-4859.1	-4684.9	348.4
+K5-i5_f		5	-4846.2	-4693.6	305.2
+
+Software written by Dent Earl while at EEB Dept, UCLA, BME Dept UCSC
+dearl (a) soe ucsc edu
+CITATION:
+Earl, Dent A. and vonHoldt, Bridgett M. (2012)
+STRUCTURE HARVESTER: a website and program for visualizing
+STRUCTURE output and implementing the Evanno method.
+# Conservation Genetics Resources 4(2) 359-361. DOI: 10.1007/s12686-011-9548-7
+Core version: vB.1 July 2022
