@@ -7,26 +7,6 @@ using System.Windows.Forms;
 
 namespace GenotypeApp.Application_logic
 {
-    //[Target("TextBox")]
-    //internal class TextBoxTargetLogger : TargetWithLayout
-    //{
-    //    public TextBox TextBoxControl { get; set; }
-
-    //    protected override void Write(LogEventInfo logEvent)
-    //    {
-    //        string logMessage = this.Layout.Render(logEvent) + Environment.NewLine;
-    //        if (TextBoxControl.InvokeRequired)
-    //        {
-    //            TextBoxControl.BeginInvoke(new Action(() => {
-    //                TextBoxControl.AppendText(logMessage);
-    //            }));
-    //        }
-    //        else
-    //        {
-    //            TextBoxControl.AppendText(logMessage);
-    //        }
-    //    }
-    //}
     internal class BatchedTextBoxTarget : TargetWithLayout
     {
         private readonly ConcurrentQueue<string> _queue = new();

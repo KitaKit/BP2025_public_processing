@@ -58,10 +58,6 @@ namespace GenotypeApp.Additional_programs_logic.Structure
             return new Sample(rows, modal);
         }
 
-        /// <summary>
-        /// Detects whether the first column of the file contains an individual identifier (STRUCTURE
-        /// parameter LABEL). The heuristics combine textual/numeric analysis and basic pattern checking.
-        /// </summary>
         public static bool DetectLabel(
         string filePath,
         string delimiter = null,
@@ -146,25 +142,6 @@ namespace GenotypeApp.Additional_programs_logic.Structure
             return false;
         }
 
-        /// <summary>
-        /// Heuristically determines the STRUCTURE parameter ONEROWPERIND.
-        ///
-        /// Algorithm (optimised after discussion):
-        ///   1. If a LABEL column exists, analyse runs of the first‑column ID.
-        ///      ▸ All group sizes equal 1 → ONEROWPERIND = 1
-        ///      ▸ Uniform group size > 1  → ONEROWPERIND = 0
-        ///      ▸ Otherwise default to 1 (safer assumption).
-        ///
-        ///   2. If LABEL is absent, but NUMLOCI and PLOIDY are already known (mainparams), infer by
-        ///      comparing the modal column count with NUMLOCI and NUMLOCI*PLOIDY.
-        ///      ▸ alleleCols == NUMLOCI * PLOIDY ⇒ 1 row per individual
-        ///      ▸ alleleCols == NUMLOCI          ⇒ 2 rows per individual
-        ///      ▸ otherwise default to 1 (cannot decide without more info).
-        ///
-        ///   3. If LABEL is absent **and** NUMLOCI/PLOIDY are unknown, the method returns true (one row)
-        ///      and a later post‑processing step should revisit the decision once those parameters are
-        ///      resolved.
-        /// </summary>
         public static bool DetectOneRowPerInd(
         string filePath,
         string delimiter = null,
@@ -227,14 +204,6 @@ namespace GenotypeApp.Additional_programs_logic.Structure
             }
         }
 
-        /// <summary>
-        /// Heuristically decides whether the input file contains an explicit POPDATA column
-        /// (population identifiers) immediately after the optional LABEL column.
-        /// 
-        /// The rules implemented are designed to minimise both false positives (mistaking the
-        /// first allelic column for POPDATA when LABEL = 0) and false negatives (rejecting
-        /// genuine two‑population files coded 0/1, or very small data sets).
-        /// </summary>
         public static bool DetectPopData(
             string filePath,
             string delimiter = null,
@@ -306,20 +275,6 @@ namespace GenotypeApp.Additional_programs_logic.Structure
             return true;
         }
 
-        /// <summary>
-        /// Heuristically determines whether a file contains a POPFLAG column (0/1 flags indicating
-        /// individuals whose data should be used for frequency estimation).
-        /// <para/>
-        /// Rules implemented (derived from STRUCTURE v2.3 manual §2.1):
-        ///   • column is located after optional LABEL and POPDATA columns;<br/>
-        ///   • values must all be 0 or 1 (non‑numeric entries ignored);<br/>
-        ///   • if both 0 and 1 occur, the minority code should be relatively rare — by default ≤5 % of
-        ///     sampled rows — but a column with <em>only</em> 0s or <em>only</em> 1s is also accepted;<br/>
-        ///   • in two‑rows‑per‑individual mode each pair of successive rows must carry identical flags
-        ///     (last incomplete pair, if any, is ignored).  
-        /// These rules aim to distinguish POPFLAG from POPDATA (which can also be 0/1) and from
-        /// numerical allele columns when LABEL = 0.
-        /// </summary>
         public static bool DetectPopFlag(
             string filePath,
             string delimiter = null,
@@ -385,25 +340,6 @@ namespace GenotypeApp.Additional_programs_logic.Structure
             return true;
         }
 
-
-        /// <summary>
-        /// Heuristically determines whether the input file contains a LOCDATA column
-        /// (sampling location codes) directly after the optional LABEL / POPDATA / POPFLAG
-        /// columns. The rules follow STRUCTURE manual (§2.1) and aim to minimise both
-        /// false positives (e.g. treating numeric allele column as LOCDATA when LABEL=0)
-        /// and false negatives (valid files with single location).
-        /// </summary>
-        /// <param name="filePath">Path to the STRUCTURE input file.</param>
-        /// <param name="delimiter">Explicit delimiter; if <c>null</c> — split by whitespace.</param>
-        /// <param name="commentChar">Lines beginning with this char are ignored.</param>
-        /// <param name="sampleSize">Maximum number of valid data lines to scan.</param>
-        /// <param name="maxUniqueRatio">
-        /// Upper bound for the fraction of unique codes among scanned rows. 0.4 means
-        /// we accept the column as LOCDATA only if at least 60 % of rows share codes
-        /// with someone else; this helps avoid confusing numeric alleles with location
-        /// codes when LABEL = 0.
-        /// </param>
-        /// <returns><c>true</c> if a LOCDATA column is very likely present.</returns>
         public static bool DetectLocData(
             string filePath,
             string delimiter = null,
@@ -414,7 +350,6 @@ namespace GenotypeApp.Additional_programs_logic.Structure
             var sample = BuildSample(filePath, delimiter, commentChar, sampleSize);
             var rows = sample.Rows;
 
-            // Determine the "normal" column count and compute index of the candidate column
             int modalCount = sample.ModalColumnCount;
 
             int locIndex = (StructureParametersModel.Instance.mainparams.PREDICTED_LABEL ? 1 : 0) +
@@ -479,12 +414,6 @@ namespace GenotypeApp.Additional_programs_logic.Structure
             return true;
         }
 
-        /// <summary>
-        /// Detects whether the file contains a PHENOTYPE column that follows the optional
-        /// LABEL / POPDATA / POPFLAG / LOCDATA columns. Handles integer, continuous (float) and
-        /// string/binary phenotypes and attempts to avoid mistaking the first allele column for
-        /// phenotype when earlier detectors were mis‑aligned.
-        /// </summary>
         public static bool DetectPhenotype(
             string filePath,
             string delimiter = null,
@@ -576,21 +505,14 @@ namespace GenotypeApp.Additional_programs_logic.Structure
         {
             int numLoci = StructureParametersModel.Instance.mainparams.NUMLOCI;
             int nonNumeric = items.Count(p => !int.TryParse(p, out _) && !double.TryParse(p, NumberStyles.Float, CultureInfo.InvariantCulture, out _));
-            if (nonNumeric > 0) return true; // contains text tokens
-                                             // numeric names – accept if spread is large (e.g. 2001..2050) or not strictly continuous 1..N
+            if (nonNumeric > 0) return true; 
             var ints = items.Select(int.Parse).ToList();
             int unique = ints.Distinct().Count();
             int min = ints.Min();
             int max = ints.Max();
             return (max - min + 1) != unique || (max - min) > numLoci / 2;
         }
-        /// <summary>
-        /// Scans the header portion of a STRUCTURE file and predicts the presence of the auxiliary
-        /// rows MARKERNAMES, RECESSIVEALLELES, MAPDISTANCES, PHASEINFO and NOTAMBIGUOUS.
-        /// <para>It stops as soon as the first row that does not match the expected NUMLOCI length or
-        /// uniform‑type signature is encountered (i.e. the genotypic part starts).</para>
-        /// <para>Results are stored in mainparams as PREDICTED_* boolean flags.</para>
-        /// </summary>
+
         public static void DetectAdditionalRows(
             string filePath,
             string delimiter = null,
@@ -663,13 +585,6 @@ namespace GenotypeApp.Additional_programs_logic.Structure
             mp.PREDICTED_NOTAMBIGUOUS = foundNotAmbig;
         }
 
-
-        /// <summary>
-        /// Tries to guess the missing‑data code (MISSING parameter) by analysing the distribution of
-        /// allele tokens in the genotype matrix. Works for both microsatellite (numeric) and SNP
-        /// (letter) files. Returns a string with up to three candidates separated by " or ", or null
-        /// when a suggestion cannot be made confidently.
-        /// </summary>
         public static string? DetectMissingCandidates(
             string filePath,
             string? delimiter = null,
@@ -776,17 +691,6 @@ namespace GenotypeApp.Additional_programs_logic.Structure
             return combined.Count == 0 ? null : string.Join(" or ", combined);
         }
 
-
-        /// <summary>
-        /// Estimates the total number of individuals (NUMINDS) present in a STRUCTURE input file.
-        /// The routine is designed to cope with the three canonical layouts:
-        ///   1) LABEL = 1  (unique ID in the first column, any string)
-        ///   2) LABEL = 0, ONEROWPERIND = 1
-        ///   3) LABEL = 0, ONEROWPERIND = 0  (two consecutive rows per individual)
-        /// It is resilient to the presence of POPDATA, POPFLAG and other prefix fields as long as
-        /// those flags have been detected beforehand.
-        /// Returns -1 if NUMINDS cannot be determined confidently (e.g. mismatching row counts).
-        /// </summary>
         public static int DetectNumInds(
             string filePath,
             string? delimiter = null,
@@ -842,15 +746,6 @@ namespace GenotypeApp.Additional_programs_logic.Structure
             return dataRows / 2;
         }
 
-        /// <summary>
-        /// Определяет одновременно NUMLOCI и EXTRACOLS для STRUCTURE-файла.
-        /// </summary>
-        /// <returns>Tuple, где Item1 = NUMLOCI, Item2 = EXTRACOLS.</returns>
-        /// <remarks>
-        /// • Если PLOIDY ≤ 0 или префиксные флаги ещё не установлены, возвращает (-1, -1).  
-        /// • Бросает InvalidDataException при невозможном сочетании параметров или при превышении EXTRACOLS > maxExtraAllowed.
-        /// • В случае неоднозначности (несколько возможных пар) тоже бросает исключение.
-        /// </remarks>
         public static (int extraCols, int numLoci) DetectExtraColsAndNumLoci(
             string filePath,
             string delimiter = null,
@@ -887,32 +782,13 @@ namespace GenotypeApp.Additional_programs_logic.Structure
                 int loci = genotypeCols / factor;
                 if (loci <= 0) continue;
 
-                return (extra, loci);      // нашли единственное валидное сочетание
+                return (extra, loci);      
             }
 
             throw new InvalidDataException(
                 $"Не удалось согласовать layout (prefix={prefix}, modal={modal}).");
         }
 
-
-
-        /// <summary>
-        /// Infers the ploidy level (PLOIDY) from a STRUCTURE input file.
-        ///
-        /// Algorithm:
-        ///   1. Compute <c>genotypeColsPerRow</c> as: modalColumnCount − prefixCount − EXTRACOLS.
-        ///   2. If <c>NUMLOCI</c> is already known &gt; 0, derive
-        ///        allelesPerRow = genotypeColsPerRow / NUMLOCI.
-        ///      *  one‑row‑per‑ind  ⇒  PLOIDY  = allelesPerRow
-        ///      *  two‑rows‑per‑ind ⇒  PLOIDY  = allelesPerRow × 2
-        ///      A non‑integer division is treated as malformed input.
-        ///   3. If <c>NUMLOCI</c> is not yet known, fall back to searching the largest
-        ///      plausible divisor of <c>genotypeColsPerRow</c> not exceeding <c>maxPloidy</c>.
-        ///   4. For ONEROWPERIND = 0 the method works for any even ploidy; odd ploidies
-        ///      with two rows are rejected.
-        ///   5. Returns –1 when required prerequisites (EXTRACOLS or, in step 2, NUMLOCI)
-        ///      are still unknown — caller should retry later.
-        /// </summary>
         public static int DetectPloidy(
             string filePath,
             string delimiter = null,

@@ -6,12 +6,12 @@ namespace GenotypeApp.Additional_programs_logic.CLUMPP
 {
     internal class JobProgressEstimator
     {
-        private readonly double _totalIterations;     // (K!)^(R-1)  или  REPEATS
-        private readonly double _alpha;               // EWMA smoothing
-        private readonly int _window;                 // stdev window
+        private readonly double _totalIterations;     
+        private readonly double _alpha;               
+        private readonly int _window;                 
         private readonly Queue<double> _recent = new();
 
-        private double _speedEwma;                    // iter/s
+        private double _speedEwma;                    
         private double _lastIter;
         private DateTime _lastStamp;
 
@@ -64,7 +64,7 @@ namespace GenotypeApp.Additional_programs_logic.CLUMPP
             var shownPct = Math.Clamp(Math.Min(rawPct, capPct), 0.0, 1.0);
 
             var syntheticRemaining = _totalIterations - syntheticDone;
-            var safety = 0.01 * _totalIterations;     // ≥ 1 %
+            var safety = 0.01 * _totalIterations;     
             var restIter = Math.Max(syntheticRemaining, safety);
 
             TimeSpan eta = TimeSpan.FromSeconds(restIter / _speedEwma);

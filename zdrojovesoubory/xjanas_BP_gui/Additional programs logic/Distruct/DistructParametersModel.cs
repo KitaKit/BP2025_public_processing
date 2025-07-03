@@ -366,7 +366,6 @@ namespace GenotypeApp.Additional_programs_logic.Distruct
         }
         public void LoadFromLines(List<string> lines)
         {
-            // 1) Собираем словарь define → value
             var paramDict = lines
                             .Select(l => l.Trim())
                             .Where(l => l.StartsWith("#define"))
@@ -377,7 +376,7 @@ namespace GenotypeApp.Additional_programs_logic.Distruct
                                 var key = parts[0];
                                 var value = parts.Length == 2
                                     ? parts[1]
-                                    : string.Empty;   // если нет второй части — пустая строка
+                                    : string.Empty;   
                                 return new KeyValuePair<string, string>(key, value);
                             })
                             .ToDictionary(kv => kv.Key, kv => kv.Value);
@@ -386,10 +385,6 @@ namespace GenotypeApp.Additional_programs_logic.Distruct
             ApplyDictionaryToObject(obj, paramDict);
         }
 
-        /// <summary>
-        /// Для каждого публичного свойства obj, если в dict есть ключ с тем же именем,
-        /// конвертирует строку в тип свойства и устанавливает значение.
-        /// </summary>
         private void ApplyDictionaryToObject(object obj, Dictionary<string, string> dict)
         {
             var type = obj.GetType();
@@ -398,10 +393,8 @@ namespace GenotypeApp.Additional_programs_logic.Distruct
                 if (!prop.CanWrite)
                     continue;
 
-                // ищем точное совпадение ключа (имя свойства)
                 if (dict.TryGetValue(prop.Name, out var strValue))
                 {
-                    // определяем реальный тип (учёт Nullable<>)
                     var targetType = Nullable.GetUnderlyingType(prop.PropertyType)
                                      ?? prop.PropertyType;
 
@@ -416,7 +409,6 @@ namespace GenotypeApp.Additional_programs_logic.Distruct
                     }
                     else
                     {
-                        // приведём "0"/"1" к int или bool, числа к int/double и т.д.
                         value = (targetType == typeof(bool) || targetType == typeof(bool?)) ? (strValue == "0" ? (object)false : strValue == "1" ? (object)true : (object)bool.Parse(strValue)) : Convert.ChangeType(strValue, targetType, CultureInfo.InvariantCulture);
                     }
 

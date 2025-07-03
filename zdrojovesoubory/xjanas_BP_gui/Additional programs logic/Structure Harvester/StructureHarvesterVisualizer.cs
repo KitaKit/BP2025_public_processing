@@ -391,7 +391,7 @@ namespace GenotypeApp.Additional_programs_logic.Structure_Harvester
             foreach (string line in lines.Skip(hasHeader ? 1 : 0))
             {
                 string[] parts = line.Split(new[] { '\t', ',', ';', ' ' }, StringSplitOptions.RemoveEmptyEntries);
-                if (parts.Length < 7) continue; // K Reps Mean SD Ln' Ln" ΔK
+                if (parts.Length < 7) continue;
 
                 ks.Add(ParseOrNaN(parts[0]));
                 m.Add(ParseOrNaN(parts[2]));

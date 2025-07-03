@@ -125,7 +125,7 @@ namespace GenotypeApp.Additional_programs_logic.Distruct
                 OutputFormat fmt, PageOrientation orient, int dpi)
         {
             var (wPt, hPt) = GetBBoxByGhostscript(inputPs);
-            if (wPt == 0 || hPt == 0) { wPt = 612; hPt = 792; }   // Fallback: Letter
+            if (wPt == 0 || hPt == 0) { wPt = 612; hPt = 792; }  
 
             bool swap = orient is PageOrientation.Landscape
                                      or PageOrientation.Seascape;
@@ -134,14 +134,14 @@ namespace GenotypeApp.Additional_programs_logic.Distruct
             string dev = GetDeviceName(fmt);
 
             var args = new List<string>
-    {
-        "-dSAFER","-dBATCH","-dNOPAUSE",
-        $"-sDEVICE={dev}",
-        $"-sOutputFile={outputFile}",
-        $"-dDEVICEWIDTHPOINTS={wPt}",
-        $"-dDEVICEHEIGHTPOINTS={hPt}",
-        "-dFIXEDMEDIA"           
-    };
+            {
+                "-dSAFER","-dBATCH","-dNOPAUSE",
+                $"-sDEVICE={dev}",
+                $"-sOutputFile={outputFile}",
+                $"-dDEVICEWIDTHPOINTS={wPt}",
+                $"-dDEVICEHEIGHTPOINTS={hPt}",
+                "-dFIXEDMEDIA"           
+            };
 
             if (fmt is OutputFormat.PNG or OutputFormat.JPEG or OutputFormat.BMP)
             {

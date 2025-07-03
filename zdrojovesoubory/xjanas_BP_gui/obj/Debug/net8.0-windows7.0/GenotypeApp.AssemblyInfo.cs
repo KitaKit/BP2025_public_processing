@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GenotypeApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdc577c3a323547486367b13e160928828eeb7fd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f54beb66910b005b9ebac5329ca79d9f43617fc1")]
 [assembly: System.Reflection.AssemblyProductAttribute("GenotypeApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GenotypeApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

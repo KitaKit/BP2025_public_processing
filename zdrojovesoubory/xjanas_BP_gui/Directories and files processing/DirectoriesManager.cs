@@ -51,7 +51,6 @@ namespace GenotypeApp
                 DirectoriesManager.CreateAdditionalProgramsDirectories(toCreate);
             }
 
-            // 7) Если есть что удалить — спрашиваем пользователя
             if (toDelete.Length > 0)
             {
                 var list = string.Join("\n", toDelete);

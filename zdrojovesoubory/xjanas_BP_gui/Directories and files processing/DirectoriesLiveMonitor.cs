@@ -26,7 +26,7 @@ namespace GenotypeApp.Directories_and_files_processing
                 NotifyFilter = NotifyFilters.DirectoryName | NotifyFilters.FileName | NotifyFilters.LastWrite
             };
 
-            _watcher.InternalBufferSize = 64 * 1024; // 64 КБ
+            _watcher.InternalBufferSize = 64 * 1024; // 64 Kb
 
             _watcher.Created += OnFileSystemEvent;
             _watcher.Deleted += OnFileSystemEvent;

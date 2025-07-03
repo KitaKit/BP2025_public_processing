@@ -28,26 +28,25 @@ namespace GenotypeApp.Additional_programs_logic.CLUMPP
         private int _s = 2;
 
         private int _greedyOption = 1;
-        /// If reedyOption = 2, then repeats determines the number of random input orders to be tested
-        /// If reedyOption = 3, then repeats determines the number of input orders in permutationFile
+
         private int _repeats = 1000;
-        /// The permutations of the runs in permutationFile will be used,if GREEDY_OPTION = 3
+
         private string _permutationFile;
-        /// Print the permuted data (clusters)( 0 = don't print, 1 = print into one file, 2 = print into separate files for each run)
+
         private int _printPermutedData = 1;
-        /// The permuted data (clusters) will be printed to this file
+
         private string _permutedDataFile;
-        /// Print every tested permutation of the runs
+
         private bool _printEveryPerm = false;
-        /// Every tested permutation of the runs and the corresponding SSC will be printed here
+
         private string _everyPermFile;
-        /// Print random input orders of runs
+
         private bool _printRandomInputOrder = false;
-        /// Every random input order of the runs will be printed here
+        
         private string _randomInputOrderFile;
-        /// This option allows the user to override non-crucial warnings
+        
         private bool _overrideWarnings = false;
-        /// Permute the clusters of the output files by the specified run
+        
         private int _orderByRun = 1;
 
         public bool DATATYPE 
